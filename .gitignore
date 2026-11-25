@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+*.tmp
+*.tmp.npy
+
+data/raw/
+data/processed/
+data/poisoned/
+data/features/
+data/sanitized/*.npy
